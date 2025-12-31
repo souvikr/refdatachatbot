@@ -1,0 +1,10 @@
+fastmcp==2.14.1
+langgraph==1.0.5
+langchain-openai==1.1.6
+langchain==1.2.0
+gradio==6.2.0
+fastapi==0.128.0
+uvicorn==0.40.0
+pydantic==2.12.5
+pytest==9.0.2
+pytest-asyncio==1.3.0
